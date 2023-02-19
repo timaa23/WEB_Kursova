@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopApi2", "ShopApi2\ShopApi2.csproj", "{A311ABAE-20E0-4873-9023-FFD168913306}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{75569EC5-9F01-440C-B003-D16274CEA0E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{25DADE33-C043-4572-9A7D-A7B927DF2816}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A311ABAE-20E0-4873-9023-FFD168913306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A311ABAE-20E0-4873-9023-FFD168913306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A311ABAE-20E0-4873-9023-FFD168913306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A311ABAE-20E0-4873-9023-FFD168913306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75569EC5-9F01-440C-B003-D16274CEA0E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75569EC5-9F01-440C-B003-D16274CEA0E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75569EC5-9F01-440C-B003-D16274CEA0E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75569EC5-9F01-440C-B003-D16274CEA0E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25DADE33-C043-4572-9A7D-A7B927DF2816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25DADE33-C043-4572-9A7D-A7B927DF2816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25DADE33-C043-4572-9A7D-A7B927DF2816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25DADE33-C043-4572-9A7D-A7B927DF2816}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {292FAE20-EEE2-4E75-8C8F-77695B4AA24C}
+	EndGlobalSection
+EndGlobal
